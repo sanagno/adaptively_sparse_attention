@@ -1,0 +1,6 @@
+datasets==2.9.0
+numpy==1.23.5
+torch==2.1.0.dev20230330+cu118
+tqdm==4.65.0
+transformers==4.26.1
+tensorboard==2.12.0
