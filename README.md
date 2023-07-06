@@ -12,7 +12,11 @@ We can thus enhance interpretability by highlighting the most relevant tokens in
 
 An example of the droppig mechanism is shown below:
 
-<video src="assets/image.mp4"/>
+
+
+https://github.com/sanagno/adaptively_sparse_attention/assets/26574370/ca24a4b6-40bf-4efa-bff8-9a337e70b594
+
+
 
 Tokens are generated one by one and arrows indicate the previous tokens dropped by the model.
 
