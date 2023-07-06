@@ -16,6 +16,8 @@ An example of the droppig mechanism is shown below:
   <video src="assets/image.mp4" width="800" />
 </p>
 
+Tokens are generated one by one and arrows indicate the previous tokens dropped by the model.
+
 
 ## Requirements
 To install the requirements, run:
