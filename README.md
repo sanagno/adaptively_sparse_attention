@@ -1,4 +1,4 @@
-# Code for Adaptively Sparse Attention
+# Adaptively Sparse Attention
 
 This repo contains code for the paper [Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers](https://arxiv.org/abs/2305.15805).
 
@@ -53,7 +53,7 @@ If you find this repo useful, please cite our paper:
 ```
 
 ## Acknowledgements
-This repo was heavily inspired by the following
+This repo was heavily inspired by the following:
 
 - https://github.com/karpathy/nanoGPT
 - https://github.com/deep-spin/entmax/
