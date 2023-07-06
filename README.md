@@ -14,7 +14,7 @@ An example of the droppig mechanism is shown below:
 
 
 
-https://github.com/sanagno/adaptively_sparse_attention/assets/26574370/ca24a4b6-40bf-4efa-bff8-9a337e70b594
+https://github.com/sanagno/adaptively_sparse_attention/assets/26574370/c8d5770a-0847-4aa0-991f-c9a050683fb1
 
 
 
