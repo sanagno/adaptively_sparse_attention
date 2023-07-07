@@ -13,11 +13,8 @@ We can thus enhance interpretability by highlighting the most relevant tokens in
 An example of the droppig mechanism is shown below:
 
 
-<p align="center">
-<video width="900" height="440" controls>
-  <source src="assets/dropping.mp4" type="video/mp4">
-</video>
-</p>
+[![](assets/preview.png)](assets/dropping.mp4)
+
 
 Tokens are generated one by one and arrows indicate the previous tokens dropped by the model.
 
